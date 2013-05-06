@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://codeindesign.github.io/sitemap.xml 
